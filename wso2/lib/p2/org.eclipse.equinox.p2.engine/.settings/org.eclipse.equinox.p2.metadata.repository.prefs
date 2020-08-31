@@ -1,8 +1,0 @@
-eclipse.preferences.version=1
-repositories/file\:_home_jenkins_workspace_analytics-products_analytics-apim_2.x_modules_distribution_target_p2-repo/enabled=true
-repositories/file\:_home_jenkins_workspace_analytics-products_analytics-apim_2.x_modules_distribution_target_p2-repo/isSystem=false
-repositories/file\:_home_jenkins_workspace_analytics-products_analytics-apim_2.x_modules_distribution_target_p2-repo/name=wso2am-analytics
-repositories/file\:_home_jenkins_workspace_analytics-products_analytics-apim_2.x_modules_distribution_target_p2-repo/suffix=content.xml
-repositories/file\:_home_jenkins_workspace_analytics-products_analytics-apim_2.x_modules_distribution_target_p2-repo/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
-repositories/file\:_home_jenkins_workspace_analytics-products_analytics-apim_2.x_modules_distribution_target_p2-repo/uri=file\:/home/jenkins/workspace/analytics-products/analytics-apim_2.x/modules/distribution/target/p2-repo
-repositories/file\:_home_jenkins_workspace_analytics-products_analytics-apim_2.x_modules_distribution_target_p2-repo/version=1.0.0
